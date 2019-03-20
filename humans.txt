@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- Anand Dwivedi -- <twitter>
 
 # THANKS
 
